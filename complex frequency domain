@@ -1,0 +1,4 @@
+  For understanding frequency domain,you can read the Chinese website: https://zhuanlan.zhihu.com/wille ,or something on wiki.
+  For understanding complex frequency domain ,you should know frequeny domain is a special type of complex frequency domain when the value 
+is always only 1----which is shown on complex frequency domain plane as a unite circle. It can  be easily understand using Euler formula.
+(e^jw = cosw + jsinw and z = x + jy).
